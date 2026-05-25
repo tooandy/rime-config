@@ -1,0 +1,14 @@
+var:
+  last_build_time: 1779691131
+  option:
+    search_single_char: true
+  previously_selected_schema: double_pinyin_flypy
+  schema_access_time:
+    double_pinyin: 1779527074
+    double_pinyin_abc: 1779527076
+    double_pinyin_flypy: 1779690814
+    double_pinyin_jiajia: 1779527084
+    double_pinyin_mspy: 1779527078
+    double_pinyin_sogou: 1779527080
+    double_pinyin_ziguang: 1779527082
+    rime_ice: 1779690811
